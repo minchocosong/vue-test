@@ -9,10 +9,13 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "howler": "^2.1.2",
     "vue": "^2.6.10",
+    "vue-audio": "0.0.12",
     "vuetify": "^2.0.0"
   },
   "devDependencies": {
+    "@mdi/font": "^3.8.95",
     "@vue/cli-plugin-babel": "^3.9.0",
     "@vue/cli-plugin-eslint": "^3.9.0",
     "@vue/cli-service": "^3.9.0",
